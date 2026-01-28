@@ -48,7 +48,7 @@ git commit
 
 [^1]: evo ovog
 [^2]: i ovog
-
+<!-- Ovo je komentar -->
 
 |Header 1|Header 2|
 |--------|--------|
