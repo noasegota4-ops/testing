@@ -50,4 +50,4 @@ git commit
 
 [link za pocetak](#testing)
 
-[link na nesto](#jos jedan heading)
+[link na nesto](#jos-jedan-heading)
