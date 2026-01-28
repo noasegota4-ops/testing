@@ -3,6 +3,9 @@
 
  *Ovo italicized*
  ## jos jedan heading
+
+ [^1]: evo ovog
+ [^2]: i ovog
  
 ***Ovo oboje***
 
@@ -37,5 +40,6 @@ git commit
 + [X] ovo je done
 + [ ] ovo ne
 + [ ] ovo isto ne
-* []
-- []
+
+Evo simple fusnote[^1]
+i druge[^2]
