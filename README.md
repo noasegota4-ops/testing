@@ -2,6 +2,7 @@
 **Ovo ce biti bold**
 
  *Ovo italicized*
+ ## jos jedan heading
  
 ***Ovo oboje***
 
@@ -48,3 +49,5 @@ git commit
 
 
 [link za pocetak](#testing)
+
+[link na nesto](#josjedanheading)
