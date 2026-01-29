@@ -54,3 +54,11 @@ git commit
 |--------|--------|
 |Prva stvar|druga stvar|
 |jos stvari|i jos stvari|
+
+
+Here's [a link to something else][another place].
+     Here's [yet another link][another-link].
+     And now back to [the first link][another place].
+
+     [another place]: www.github.com
+     [another-link]: www.google.com
